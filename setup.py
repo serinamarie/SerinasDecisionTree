@@ -2,13 +2,13 @@ from distutils.core import setup
 setup(
   name = 'SerinasDecisionTree',         
   packages = ['SerinasDecisionTree'],   
-  version = '0.2',      
+  version = '0.3',      
   license='MIT',       
   description = 'A Python package for decision-tree based classification of data',   
   author = 'Serina Grill',                  
   author_email = 'serinagrill@gmail.com',      
   url = 'https://github.com/serinamarie/SerinasDecisionTree',   
-  download_url = 'https://github.com/serinamarie/SerinasDecisionTree/archive/v_02.tar.gz',   
+  download_url = 'https://github.com/serinamarie/SerinasDecisionTree/archive/v_03.tar.gz',   
   keywords = ['python', 'decision tree', 'classifier'],   
   install_requires=[         
           'numpy'
