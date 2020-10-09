@@ -1,1 +1,1 @@
-from decisiontree import DecisionTreeClassifier
+from SerinasDecisionTree.decisiontree import DecisionTreeClassifier
