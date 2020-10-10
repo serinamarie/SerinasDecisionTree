@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'SerinasDecisionTree',         
   packages = ['SerinasDecisionTree'],   
-  version = '0.1',      
+  version = '0.2',      
   license='MIT',       
   description = 'A Python package for decision-tree based classification of data',   
   author = 'Serina Grill',                  
