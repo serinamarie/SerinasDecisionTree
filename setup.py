@@ -8,9 +8,9 @@ setup(
   author = 'Serina Grill',                  
   author_email = 'serinagrill@gmail.com',      
   url = 'https://github.com/serinamarie/SerinasDecisionTree',   
-  download_url = 'https://github.com/serinamarie/SerinasDecisionTree/archive/v_01.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/serinamarie/SerinasDecisionTree/archive/v_02.tar.gz',   
   keywords = ['python', 'decision tree', 'classifier'],   
-  install_requires=[            # I get to this in a second
+  install_requires=[         
           'numpy'
       ],
   classifiers=[
@@ -26,3 +26,5 @@ setup(
     'Programming Language :: Python :: 3.8',
   ],
 )
+
+
