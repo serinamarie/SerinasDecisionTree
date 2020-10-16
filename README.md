@@ -6,8 +6,10 @@ Implementation of a decision tree algorithm with only base Python and numpy. See
 
 Package Installation
 
-```pip install SerinasDecisionTree==0.3```
+```pip install SerinasDecisionTree==0.3
+```
 
+Class Import and Instantiation
 
 ```from SerinasDecisionTree.decisiontree import DecisionTreeClassifier
 dtc = DecisionTreeClassifier() # default min_samples=2, max_depth=5
