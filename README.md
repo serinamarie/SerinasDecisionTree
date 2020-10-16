@@ -6,8 +6,7 @@ Implementation of a decision tree algorithm with only base Python and numpy. See
 
 Package Installation
 
-```pip install SerinasDecisionTree==0.3
-```
+```pip install SerinasDecisionTree==0.3```
 
 
 ```from SerinasDecisionTree.decisiontree import DecisionTreeClassifier
@@ -18,11 +17,11 @@ dtc.predict(X_val)
 
 Hyperparameter Tuning
 
-```min_samples, max_depth
+```min_samples, max_depth```
 
 Additional Parameter
 
-Append: default None, else will append new column of predictions to existing dataframe.
+```Append: default None, else will append new column of predictions to existing dataframe.```
 
 
 ### More about decision trees
